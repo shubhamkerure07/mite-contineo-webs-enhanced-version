@@ -1,0 +1,6 @@
+{
+  "name": "MITE Academic Portal Companion",
+  "description": "An interactive academic companion and dashboard for parents and students of Mangalore Institute of Technology & Engineering (MITE), featuring real-time attendance simulation, CIE VTU marks estimators, timetable viewer, and fee tracker details based on the Contineo portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
