@@ -1,65 +1,100 @@
+<div align="center">
 
-# MITE Contineo — Enhanced Website
+# 🎓 MITE Contineo — Enhanced Website
 
-> An enhanced version of the college website, built with Google AI Studio.
+**An AI-powered enhanced version of the MITE college website**
 
-## ✨ Overview
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
-This project is an enhanced version of the college website (MITE Contineo), built to try out new features and improvements on top of the original site.
+</div>
 
-> ⚠️ **Note:** I wasn't able to inspect the contents of `src/` for this project, so I'm not listing specific features here — that section below is left for you to fill in with what the app actually does, so nothing gets misrepresented.
+---
 
-## 🎯 Features
+## 📌 Overview
 
-- _TODO: list the actual features here (e.g. what pages/sections were added or improved compared to the original site)_
+This is an enhanced, AI-integrated reimagining of the **MITE Contineo** college website. Built using **Google AI Studio (Gemini API)**, it adds intelligent features and a modern UI on top of the original site experience.
+
+> 🏫 **MITE** — Mangalore Institute of Technology & Engineering
+
+---
+
+## ✨ Features
+
+- 🤖 AI-powered assistant (Gemini API) for campus queries
+- 🎨 Modern, responsive UI redesign
+- ⚡ Blazing fast performance with Vite
+- 📱 Mobile-friendly layout
+- 🌙 Clean, minimal design
+
+---
 
 ## 🛠️ Tech Stack
 
-- TypeScript
-- Vite
-- Google AI Studio (Gemini API)
+| Technology | Purpose |
+|:---:|:---|
+| **TypeScript** | Type-safe JavaScript |
+| **Vite** | Build tool & dev server |
+| **Google Gemini API** | AI features |
+| **CSS/HTML** | Styling & structure |
 
-## 📁 Project Structure
-
-```
-mite-contineo-webs-enhanced-version/
-├── assets/.aistudio/   # AI Studio project assets
-├── src/                # Application source
-├── .env.example        # Template for required environment variables
-├── index.html
-├── package.json
-└── vite.config.ts
-```
+---
 
 ## 🚀 Getting Started
 
-**Prerequisites:** Node.js
+### Prerequisites
+- Node.js (v18+)
+- A Gemini API key from [ai.google.dev](https://ai.google.dev/)
 
-```bash
+### Installation
+
+`ash
+# Clone the repo
 git clone https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version.git
 cd mite-contineo-webs-enhanced-version
+
+# Install dependencies
 npm install
-```
 
-Copy `.env.example` to `.env.local` and set your `GEMINI_API_KEY`.
+# Set up environment
+cp .env.example .env.local
+# Add your GEMINI_API_KEY to .env.local
 
-```bash
+# Start development server
 npm run dev
-```
+`
 
-## ▶️ Usage
-
-_TODO: briefly describe what a visitor does when they open the site._
+---
 
 ## 🔐 Security
 
-- `GEMINI_API_KEY` must stay in `.env.local` (or `.env`) only — never commit it.
-- Confirm `.gitignore` excludes your real `.env` file before pushing.
+> ⚠️ **Never commit your .env file!** Always keep GEMINI_API_KEY in .env.local only.
 
-## 🚧 Future Improvements
+Confirm .gitignore excludes your real .env file before pushing.
 
-- _TODO: add realistic next steps once features are confirmed_
+---
 
-## 📄 License
+## 🔮 Roadmap
 
-No license file is currently included in this repository.
+- [ ] Live event & notice board
+- [ ] AI-powered faculty finder
+- [ ] Department-wise resource portal
+- [ ] Timetable integration
+- [ ] Alumni connect section
+
+---
+
+## 👤 Author
+
+**Shubham Kerure** — Mechatronics Engineering, MITE
+- GitHub: [@shubhamkerure07](https://github.com/shubhamkerure07)
+- LinkedIn: [Shubham Kerure](https://www.linkedin.com/in/shubham-kerure-23350938b)
+
+---
+
+<div align="center">
+
+Built with ❤️ for MITE by Shubham Kerure
+
+</div>
