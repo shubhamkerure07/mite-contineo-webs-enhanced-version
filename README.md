@@ -5,6 +5,7 @@
 **A modernized, AI-augmented student portal reimagined for Mangalore Institute of Technology & Engineering (MITE)**  
 *Eliminating academic ERP friction with instant attendance calculators, interactive timetables, IA marks analytics, and a campus Gemini AI assistant.*
 
+[![Live Website](https://img.shields.io/badge/Live_Website-mite--contineo.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mite-contineo-webs-enhanced-version.vercel.app/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React 19](https://img.shields.io/badge/React-19.0.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite 6](https://img.shields.io/badge/Vite-6.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -16,13 +17,17 @@
 
 ---
 
-## 🌐 Deploy to Vercel (1-Click)
+## 🌐 Live Production Website
 
-The repository includes a ready-to-use [`vercel.json`](vercel.json) preconfigured for Vite single-page applications, custom asset caching, and route rewrites. Deploy your own instance directly with one click:
+The application is deployed live on Vercel:
+
+> ### 🏛️ **Official Live URL:** **[https://mite-contineo-webs-enhanced-version.vercel.app/](https://mite-contineo-webs-enhanced-version.vercel.app/)**
+>
+> *Experience real-time attendance margin calculations, interactive timetables, IA marks tracking, and the campus AI assistant directly in your browser.*
 
 <div align="center">
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshubhamkerure07%2Fmite-contineo-webs-enhanced-version)
+[![Visit Live Portal](https://img.shields.io/badge/Open_Live_Portal-mite--contineo.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://mite-contineo-webs-enhanced-version.vercel.app/)
 
 </div>
 
