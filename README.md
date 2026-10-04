@@ -28,6 +28,20 @@ The repository includes a ready-to-use [`vercel.json`](vercel.json) preconfigure
 
 ---
 
+## 📸 Visual Interface Showcase
+
+<div align="center">
+
+| 📊 Student Academic Dashboard | 📈 Attendance Margin Calculator |
+| :---: | :---: |
+| <img src="docs/screenshots/01_academic_dashboard.png" width="100%" alt="Academic Dashboard" /> | <img src="docs/screenshots/02_attendance_simulator.png" width="100%" alt="Attendance Simulator" /> |
+| **📅 Classroom Timetable** | **🎯 Internal Marks & SGPA** |
+| <img src="docs/screenshots/03_class_timetable.png" width="100%" alt="Timetable Navigator" /> | <img src="docs/screenshots/04_ia_marks_manager.png" width="100%" alt="IA Marks Manager" /> |
+
+</div>
+
+---
+
 ## 📖 Overview
 
 Collegiate Enterprise Resource Planning (ERP) portals are often cumbersome, difficult to navigate on mobile devices, and slow to deliver critical daily information. 
