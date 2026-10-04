@@ -9,8 +9,20 @@
 [![React 19](https://img.shields.io/badge/React-19.0.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite 6](https://img.shields.io/badge/Vite-6.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Google Gemini AI](https://img.shields.io/badge/Google_Gemini-AI_Copilot-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshubhamkerure07%2Fmite-contineo-webs-enhanced-version)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
+
+## 🌐 Deploy to Vercel (1-Click)
+
+The repository includes a ready-to-use [`vercel.json`](vercel.json) preconfigured for Vite single-page applications, custom asset caching, and route rewrites. Deploy your own instance directly with one click:
+
+<div align="center">
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshubhamkerure07%2Fmite-contineo-webs-enhanced-version)
 
 </div>
 
